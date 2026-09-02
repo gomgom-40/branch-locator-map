@@ -94,7 +94,8 @@ It was later **refactored in 2025** to:
 
 ## 📸 Demo / Screenshot
 
-Add a screenshot of the map here to visually demonstrate the project.
+<img width="1913" height="580" alt="Demo_Screenshot" src="https://github.com/user-attachments/assets/0c55fa97-0fff-44cd-93ec-f67db189b091" />
+
 
 ---
 
